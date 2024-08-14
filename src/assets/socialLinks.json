@@ -27,12 +27,12 @@
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
-    "url": "https://twitter.com/chiron809"
+    "url": "https://twitter.com/username"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/"
+    "url": "https://t.me/link"
   }
 ]
